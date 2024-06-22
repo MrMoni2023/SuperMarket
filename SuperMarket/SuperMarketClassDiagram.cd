@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SuperMarket.DBConnection" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAABAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.ImtiazCategoryForm" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MUAABCAwAmIQCBAAIACGEgACZAAaAECcACAAgABCAgE=</HashCode>
+      <FileName>ImtiazCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.FrontForm" Collapsed="true">
+    <Position X="4.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAACAAABAAAACAAAACAAAAIAAAgAAAAAIAAAE=</HashCode>
+      <FileName>FrontForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.Form1" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAACAIABAAAACAAACCAAAIAAAAAEQAAQIAAB0=</HashCode>
+      <FileName>DividerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.LogManager" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAgAAAAAgAEAIAAAAAAAAAQAAgBAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.LogWriter" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.DGVCellDrawingEventArgs" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAgAAAAAAAAAACQAAAAAAIAAAEAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.Extensions" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DGVPrinterHelper.DGVPrinter" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>3l8qd9+X8t/kaFBjS+oO7skhbCrxPjww/j3/2N2C1m8=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.ImtiazProductForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MEQAADgQIHAECBRECACSEBECRAAKgEQERAACAABCMEU=</HashCode>
+      <FileName>ImtiazProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.ImtiazRegisterForm" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>OEAAACAAQCAGABAAAACAAAAGQAAKBABgAMAEAABDEAE=</HashCode>
+      <FileName>ImtiazRegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.ImtiazSellingForm" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EEAAQUAQIHAEiBFECICUEAACQAEK0gcAEAAADAASEAE=</HashCode>
+      <FileName>ImtiazSellingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.LoginForm_Naheed_cs" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EBQAQCAAACAEABAAAADBCAAiDAgIAQAAAgAACUAAAD0=</HashCode>
+      <FileName>LoginForm_Naheed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.UIForm" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAIRAAGAAAFEAAASECATSDAgIAAgAIEAACSACAh0=</HashCode>
+      <FileName>UIForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.NaheedCategoryForm" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>MEAAgIEAADACBBaACADAAAACQPAKAADAIAEAAAVJBAk=</HashCode>
+      <FileName>NaheedCategoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.NaheedProductForm" Collapsed="true">
+    <Position X="9.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>cMAoAAAAAHAACBAAgQCCkABCUIAqkABERgABAgBCJAk=</HashCode>
+      <FileName>NaheedProductForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.NaheedRegisterForm" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>OEBAACAAQCAOABYAAACAAAAGQAAKBABAAEAEAABCEBE=</HashCode>
+      <FileName>NaheedRegisterForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.NaheedSellerForm" Collapsed="true">
+    <Position X="6.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>cMAgAAAAADAgABAggACCgABCAFEKkADAIgABIgBIICk=</HashCode>
+      <FileName>NaheedSellerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SuperMarket.NaheedSellingForm" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>OUAQkUAQoDAAARAEwACFAIACSNEKyAHAMABBQQAIBSk=</HashCode>
+      <FileName>NaheedSellingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="DGVPrinterHelper.CellOwnerDrawEventHandler" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DGVPrinter.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
